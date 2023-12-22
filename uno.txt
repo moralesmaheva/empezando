@@ -1,2 +1,6 @@
 Añado texto al archivo uno
+<<<<<<< HEAD
 Modifico esto desde otrobug y esto desde desarrollo
+=======
+Añado esto desde rama desarrollo
+>>>>>>> desarrollo
